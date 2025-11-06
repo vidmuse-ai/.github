@@ -1,5 +1,7 @@
 ## Hi there 👋 
 
+<img width="1040" height="355" alt="image" src="https://github.com/user-attachments/assets/5736007b-c3bf-4cda-8cbb-61f99b77d256" />
+
 VidMuse is an all-new video creation Agent. 
 
 Our goal is straightforward: to turn every great idea of yours into a fantastic piece of work.
@@ -21,3 +23,4 @@ Product Official Website: [https://vidmuse.ai/](https://vidmuse.ai/)
 Contact Information: 
   - [Email: support@vidmuse.ai](mailto:support@vidmuse.ai)
   - [VidMuse Discord](https://discord.gg/CahCmBCDgE)
+
