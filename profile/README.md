@@ -1,26 +1,31 @@
-## Hi there 👋 
+# VidMuse.ai - The AI Video Agent
 
-<img width="1040" height="355" alt="image" src="https://github.com/user-attachments/assets/5736007b-c3bf-4cda-8cbb-61f99b77d256" />
+## 🎇 Let every spark of creativity shine brilliantly.
 
-VidMuse is an all-new video creation Agent. 
+VidMuse is an all-new video creation agent designed to turn your ideas into fantastic pieces of work. We believe that in this day and age, video creation shouldn’t be held back by timelines or tool panels. Video is more than just editing — it involves brainstorming, expressing, validating, and iterating. VidMuse is making this entire process smarter, putting creativity itself front and center.
 
-Our goal is straightforward: to turn every great idea of yours into a fantastic piece of work.
+**Product Official Website:** [https://vidmuse.ai/](https://vidmuse.ai/)
 
-In this day and age, video creation shouldn’t be held back by timelines or tool panels anymore. 
+## Key Features
 
-Video is more than just editing — it involves brainstorming, expressing, validating, and iterating. 
+*   **Idea-to-Video Generation:** Transform your concepts into a variety of video formats.
+*   **Multiple Video Styles:** Create everything from film parodies and TV commercials to music videos, explainer videos, and humorous dubs.
+*   **Personalized "Film Crew":** Simply submit your ideas and upload your media to get started.
+*   **Focus on Creativity:** We handle the complexities of video creation so you can focus on your vision.
 
-VidMuse is making this entire process smarter, putting creativity itself front and center.
+## How It Works
 
-We know it’s not perfect yet, and our iteration list is still packed with improvements to make. 
+1.  **Submit Your Idea:** Provide a prompt or concept for the video you want to create.
+2.  **Upload Your Media:** Add any relevant images, clips, or other assets.
+3.  **Let VidMuse Work Its Magic:** Our AI-powered agent gets to work, turning your materials into a polished video.
+4.  **Iterate and Refine:** Work with the output to perfect your creation.
 
-Thank you for being willing to explore the future of creation alongside this still-developing but promising Agent.
+## Our Mission
 
-🎇 Let every spark of creativity shine brilliantly.
+Our goal is straightforward: to turn every great idea of yours into a fantastic piece of work. We know it’s not perfect yet, and our iteration list is still packed with improvements to make. Thank you for being willing to explore the future of creation alongside this still-developing but promising Agent.
 
-Product Official Website: [https://vidmuse.ai/](https://vidmuse.ai/)
+## Get in Touch
 
-Contact Information: 
-  - [Email: support@vidmuse.ai](mailto:support@vidmuse.ai)
-  - [VidMuse Discord](https://discord.gg/CahCmBCDgE)
-
+*   **Waitlist:** [VidMuse Beta Waitlist](https://tally.so/r/mVkaEl)
+*   **Discord:** [Join the VidMuse Community](https://discord.gg/CahCmBCDgE)
+*   **Join Us:** We're always looking for passionate people to join our team. Reach out to us at [support@vidmuse.ai](mailto:support@vidmuse.ai)
